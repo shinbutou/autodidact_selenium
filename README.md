@@ -1,3 +1,3 @@
 # ReadMe
 
-This is the repository
+This is the repository dedicated
