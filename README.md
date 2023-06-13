@@ -1,3 +1,3 @@
 # ReadMe
 
-This is the repository dedicated to the autodidact 
+This is the repository dedicated to the autodidact Selenium 
